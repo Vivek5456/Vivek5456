@@ -1,4 +1,4 @@
- 🚀 Welcome to My GitHub Profile!
+## 🚀 Welcome to My GitHub Profile!
 
 Hi there! I'm **Vivek Kumar**, an aspiring Computer Science and Engineering (CSE) student with a deep passion for leveraging technology to solve real-world challenges. Currently pursuing my B.Tech in CSE, I thrive on tackling complex problems through innovative solutions.
 
