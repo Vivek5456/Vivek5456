@@ -16,7 +16,7 @@ Hi there! I'm **Vivek Kumar**, an aspiring Computer Science and Engineering (CSE
 
 ## 📚 Achievements and Competitions
 
-- 🏆 **Codechef**: 2-star coder with over 850 problems solved, enhancing data structures and algorithm skills.
+- 🏆 **Codechef**: 2-star coder with over 1000 problems solved, enhancing data structures and algorithm skills.
 - 🥈 **Intel One API Hackathon - IISC Bangalore**: Grand finalist, innovating with AI and IoT technologies.
 - 🥉 **Code for Good Hackathon - IIT Mandi**: Third runner-up, contributing to solutions addressing environmental challenges.
 - 🥈 **Innovation Project - Kauthig 2024 at VMSBUTU**: First runner-up for a project promoting educational accessibility.
