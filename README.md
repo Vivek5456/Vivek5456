@@ -32,7 +32,7 @@ Actively seeking internships to apply my skills, collaborate on cutting-edge pro
 - [CodeChef](https://www.codechef.com/users/vivek5450)
 - [GitHub](https://github.com/vivek5456)
 - [Tinkercad](https://www.tinkercad.com/users/lqyeI8KBlE9-vivek-kumar)
-- 📧 Email: [gairola.vivekk@gmail.com](mailto:gairola.vivekk@gmail.com
+- 📧 Email: [gairola.vivekk@gmail.com](mailto:gairola.vivekk@gmail.com)
 
 ## 🎓 Education
 
